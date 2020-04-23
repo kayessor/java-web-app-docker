@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To DEVOPS Demo by Selvaa</h2>
-			<h3>Thank for watching</h3>
+			<h3>Thanks for watching us</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Welcome 2020</p>
+		<p>&copy; even this will pass away, 2020</p>
 	</footer>
 </div>
 
